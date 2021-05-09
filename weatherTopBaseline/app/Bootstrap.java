@@ -14,3 +14,4 @@ public class Bootstrap extends Job
     Fixtures.loadModels("data.yml");
   }
 }
+
